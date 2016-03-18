@@ -1,1 +1,1 @@
-Visit this site at https://luzmcosta.github.io/iadops-status/
+Visit this site at https://github.com/OAODEV/iadops-status/
